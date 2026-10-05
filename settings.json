@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "CHOU CHOU SEVER ROBOT",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "animecity.aternos.me.aternos.me",
+    "port": 46065,
     "version": "1.21.1"
   },
   "position": {
